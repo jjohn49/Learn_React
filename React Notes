@@ -16,3 +16,4 @@
         npx create-react-app {Insert desired react app name}
         cd {React App name}
         npm start
+    [Note that this will give you a lot of unneccessary starter code that can be deleted]
