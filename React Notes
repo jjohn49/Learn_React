@@ -1,0 +1,11 @@
+-React is a JS Library for user interfaces
+
+-React is all about components 
+    -Components = Swift view but in React
+    -Compnents can be reused
+    -Seperation of concerns (file for each component or tasks)
+
+-How components are built
+    -React is mostly HTML ands JS
+    -React is a Declarative approach
+        -Tellr act the end state and React figures out what to do
