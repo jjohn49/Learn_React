@@ -17,3 +17,16 @@
         cd {React App name}
         npm start
     [Note that this will give you a lot of unneccessary starter code that can be deleted]
+    
+-About the React Code
+    -The main file is the index file (first file to be executed)
+    -Where yous specify the root div
+    -The App.js file is the main component
+    -Index renders App
+    -React vs React Dom
+        2 seperate packages but together create the React Library
+    -Index.html (in the public folder) is the only html file to be loaded by React
+        -This is where the root div is created (the one that is specified in Index.js)
+
+-JSX = JS XML
+    -The html in JavaScript
