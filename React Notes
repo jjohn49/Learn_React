@@ -30,3 +30,8 @@
 
 -JSX = JS XML
     -The html in JavaScript
+
+-Try to do one file per component
+
+-Only render the App component in Index.js
+    -Everything else can be called in App.js or sub component of App component
