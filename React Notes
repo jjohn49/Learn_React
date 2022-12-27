@@ -9,3 +9,10 @@
     -React is mostly HTML ands JS
     -React is a Declarative approach
         -Tellr act the end state and React figures out what to do
+
+-React set up
+    1.Create a repository (preferably set it up w/ GitHub) (need Node)
+    2.run commands:
+        npx create-react-app {Insert desired react app name}
+        cd {React App name}
+        npm start
