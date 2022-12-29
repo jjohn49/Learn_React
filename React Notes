@@ -35,3 +35,13 @@
 
 -Only render the App component in Index.js
     -Everything else can be called in App.js or sub component of App component
+
+-Have to explicitly tell REeact about css files
+    -Do this by importing the CSS file
+    -Use className in divs instead of class to specify the class of the element
+
+-Dynamic Declarative    
+    -To use dynamic data you have to use the {} in it 
+        -This allows you to inject JS into HTML
+
+
