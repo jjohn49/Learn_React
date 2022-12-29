@@ -43,5 +43,7 @@
 -Dynamic Declarative    
     -To use dynamic data you have to use the {} in it 
         -This allows you to inject JS into HTML
+    -Pass a var (usually called props) into your compionent inorder to reuse the compionent woith different data
+        -Will have to pass them through attributes where you call the component
 
 
